@@ -23,7 +23,7 @@ namespace pryVerduSP1H1
         }
         private void salirToolStripMenuItem_Click_1(object sender, EventArgs e)
         {
-            this.Close();
+            this.Close(); 
         }
 
         private void cultivosToolStripMenuItem_Click_1(object sender, EventArgs e)

@@ -1,0 +1,17 @@
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\bin\Debug\pryVerduSP1H1.exe.config
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\bin\Debug\pryVerduSP1H1.exe
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\bin\Debug\pryVerduSP1H1.pdb
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.csproj.AssemblyReference.cache
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.FrmConsultaCultivos.resources
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.FrmConsultaLocalidad.resources
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.FrmConsultaProduccion.resources
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.FrmCultivos.resources
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.FrmInicio.resources
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.FrmLocalidad.resources
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.FrmProduccion.resources
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.Properties.Resources.resources
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.csproj.GenerateResource.cache
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.csproj.CoreCompileInputs.cache
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.exe
+C:\Users\gaspa\OneDrive\Escritorio\VerduSp1\pryVerduSP1H1\pryVerduSP1H1\obj\Debug\pryVerduSP1H1.pdb
